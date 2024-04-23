@@ -4,6 +4,7 @@
   "description": "This isexample to run build for diferent mode and create build on run time",
   "main": "index.html",
   "scripts": {
+    "buidl" : "webpack --mode=development",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/reeteshy/webpack-build/issues"
   },
-  "homepage": "https://github.com/reeteshy/webpack-build#readme"
+  "homepage": "https://github.com/reeteshy/webpack-build#readme",
+  "devDependencies": {
+    "webpack": "^5.91.0",
+    "webpack-cli": "^5.1.4"
+  }
 }
