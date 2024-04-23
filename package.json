@@ -1,0 +1,23 @@
+{
+  "name": "webpack-build",
+  "version": "1.0.0",
+  "description": "This isexample to run build for diferent mode and create build on run time",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reeteshy/webpack-build.git"
+  },
+  "keywords": [
+    "webpack",
+    "webpack-build"
+  ],
+  "author": "Reetesh Yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reeteshy/webpack-build/issues"
+  },
+  "homepage": "https://github.com/reeteshy/webpack-build#readme"
+}
