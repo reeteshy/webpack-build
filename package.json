@@ -4,7 +4,7 @@
   "description": "This isexample to run build for diferent mode and create build on run time",
   "main": "index.html",
   "scripts": {
-    "build" : "webpack --mode=development",
+    "build" : "webpack --config=webpack.config.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
