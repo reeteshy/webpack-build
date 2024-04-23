@@ -9,3 +9,4 @@
 All dependecies will be dev dependency
 webpack
 webpack-cli
+clean-webpack-plugin //clean up the dist directory before each new build.
